@@ -1,0 +1,23 @@
+[01-Feb-2020 10:22:01 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/webxpert/public_html/engineapi/vendor/laminas/laminas-diactoros/src/functions/create_uploaded_file.php on line 9
+[01-Feb-2020 10:22:01 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/webxpert/public_html/engineapi/vendor/laminas/laminas-diactoros/src/functions/create_uploaded_file.php on line 20
+[10-Mar-2020 08:05:48 UTC] PHP Fatal error:  Cannot use App\Models\SearchDetails\SearchDetail as SearchDetail because the name is already in use in /home/webxpert/public_html/engineapi/app/Http/Controllers/Api/Calculations/CalculationController.php on line 31
+[10-Mar-2020 08:05:58 UTC] PHP Fatal error:  Cannot use App\Models\SearchDetails\SearchDetail as SearchDetail because the name is already in use in /home/webxpert/public_html/engineapi/app/Http/Controllers/Api/Calculations/CalculationController.php on line 31
+[10-Mar-2020 08:06:03 UTC] PHP Fatal error:  Cannot use App\Models\SearchDetails\SearchDetail as SearchDetail because the name is already in use in /home/webxpert/public_html/engineapi/app/Http/Controllers/Api/Calculations/CalculationController.php on line 31
+[10-Mar-2020 08:09:04 UTC] PHP Fatal error:  Cannot use App\Models\SearchDetails\SearchDetail as SearchDetail because the name is already in use in /home/webxpert/public_html/engineapi/app/Http/Controllers/Api/Calculations/CalculationController.php on line 31
+[20-Mar-2020 12:18:32 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 160
+[31-Mar-2020 05:59:29 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 6
+[31-Mar-2020 05:59:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 6
+[31-Mar-2020 06:00:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 6
+[31-Mar-2020 06:01:02 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 6
+[31-Mar-2020 06:01:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Wp/wpController.php on line 3
+[31-Mar-2020 08:41:12 UTC] PHP Warning:  Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/webxpert/public_html/developer.engineapi/index.php on line 9
+[31-Mar-2020 08:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setHeader() in /home/webxpert/public_html/developer.engineapi/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webxpert/public_html/developer.engineapi/index.php on line 9
+[31-Mar-2020 08:41:13 UTC] PHP Warning:  Use of undefined constant response - assumed 'response' (this will throw an Error in a future version of PHP) in /home/webxpert/public_html/developer.engineapi/index.php on line 9
+[31-Mar-2020 08:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setHeader() in /home/webxpert/public_html/developer.engineapi/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webxpert/public_html/developer.engineapi/index.php on line 9
+[01-Apr-2020 15:53:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\Checkup\CheckupController::test() in /home/webxpert/public_html/developer.engineapi/app/Http/Controllers/Api/Checkup/CheckupController.php on line 2472
